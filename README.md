@@ -1,73 +1,24 @@
-# Hi, I'm Asad Ali 👋
+<h1 align="center">Hi 👋, I'm Syed Muhammad Asad Ali</h1>
+<h3 align="center">A passionate Full Stack Developer from Pakistan</h3>
 
-### Full-Stack Developer | React.js · Next.js · Node.js
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=asadali616&label=Profile%20views&color=0e75b6&style=flat" alt="asadali616" /> </p>
 
-I'm a Full-Stack Developer with hands-on experience building, deploying, and maintaining production web applications. I work across frontend, backend, API integrations, and deployment, with a focus on responsive user interfaces and reliable web experiences.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asadali616" alt="asadali616" /></a> </p>
 
-- 💼 **Currently:** Full-Stack Developer at Designocracy
-- 🌐 **Portfolio projects:** [Mahaba](https://mahaba.com) · [Mobile Salon](https://mobilesalon.com) · [Traydzee](https://traydzee.com) · [Your Junior Base](https://yourjuniorbase.com) · [BusinessFace](https://businessface.co.za) · [Fortcom](https://fortcom-mu.vercel.app) · [Truqoin](https://exchange.truiqglobal.com)
-- 📧 **Email:** [smasadali123@gmail.com](mailto:smasadali123@gmail.com)
-- 💻 **GitHub:** [@AsadAli616](https://github.com/AsadAli616)
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-## 🛠️ Skills
+- 📫 How to reach me **smasadali123@gmail.com**
 
-**Languages**
-- HTML, CSS, JavaScript
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/syed-muhammad-asad-ali-82a52026b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syed-muhammad-asad-ali-82a52026b" height="30" width="40" /></a>
+</p>
 
-**Frontend**
-- React.js, Next.js, React Native, Redux
-- Material UI, Framer Motion, GSAP, WebGL
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-**Backend & Data**
-- Node.js, Express.js, Nest.js
-- MySQL, Firebase
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asadali616&show_icons=true&locale=en&layout=compact" alt="asadali616" /></p>
 
-**APIs & Integrations**
-- REST APIs, Stripe, third-party service integrations
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asadali616&show_icons=true&locale=en" alt="asadali616" /></p>
 
-**Deployment & Tools**
-- AWS, WHM/cPanel, Vercel
-- Git, GitHub
-
-## 🚀 Selected Projects
-
-### [Mahaba](https://mahaba.com)
-Dating web and mobile application. Contributed to the frontend, backend, and deployment.
-
-### [Mobile Salon](https://mobilesalon.com)
-Built dashboards for stylists, clients, and administrators, including role-based authentication and booking/appointment API integration using Redux. Worked on the frontend and deployment.
-
-### [Traydzee](https://traydzee.com)
-Built the dashboard and worked on third-party integrations.
-
-### [Your Junior Base](https://yourjuniorbase.com)
-Built the dashboard and homepage UI, and contributed to the frontend, backend, and deployment.
-
-### [BusinessFace](https://businessface.co.za)
-B2B business platform. Contributed to the frontend, backend, and deployment.
-
-### [Fortcom](https://fortcom-mu.vercel.app)
-Created a creative, animation-rich website using Next.js, GSAP, Material UI, and WebGL, featuring a glass effect.
-
-### [Truqoin](https://exchange.truiqglobal.com)
-Built and deployed an interactive platform with Next.js, a responsive UI, and smooth animations and transitions using Framer Motion.
-
-## 💼 Experience
-
-**Full-Stack Developer — Designocracy**  
-*August 2024 – Present*
-
-- Deliver client and in-house web products across frontend, backend, and deployment.
-- Build responsive interfaces and role-based dashboards using React and Next.js.
-- Integrate REST APIs and third-party services into production applications.
-- Deploy and maintain applications on AWS and WHM servers.
-- Collaborate with design and backend teams to ship polished, reliable features.
-
-## 🎓 Education
-
-**Government College for Men**  
-Intermediate · 2022–2024
-
----
-
-📬 **Interested in working together?** Feel free to [email me](mailto:smasadali123@gmail.com).
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asadali616&" alt="asadali616" /></p>
